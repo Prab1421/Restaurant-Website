@@ -28,4 +28,6 @@ Fully optimized for all devices, including desktops, tablets, and mobile phones.
 You can check out the live demo of the project at ## Live Demo
 [Deployed_Link](https://super-dragon-72768f.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e73713ff-4efd-458d-b22a-631c288ed27e/deploy-status)](https://app.netlify.com/sites/super-dragon-72768f/deploys)
+
 
